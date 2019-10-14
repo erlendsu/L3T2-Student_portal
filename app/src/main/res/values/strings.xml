@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Student Portals</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Title</string>
+    <string name="url">url</string>
+    <string name="add_portal">ADD PORTAL</string>
+    <string name="create_portal_title">Create a portal</string>
+    <string name="invalid_form">You must fill out the input fields!</string>
+</resources>
